@@ -1,0 +1,9 @@
+site_name: "Ji Won Kim"
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Experience: experience.md
+  - Projects: projects.md
+  - Publications: publications.md
+  - Contact: contact.md
